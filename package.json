@@ -1,0 +1,19 @@
+{
+  "name": "pwcassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/mapbox-gl-directions": "^4.1.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "postman-request": "^2.88.1-postman.31",
+    "request-promise": "^4.2.6"
+  }
+}
